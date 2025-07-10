@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yogyata Negi</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&width=435&lines=Aspiring+Software+Developer;Web+Dev+Enthusiast;Problem+Solver+%7C+Final+Year+Student" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Aspiring+Software+Developer;Web+Dev+Enthusiast;Problem+Solver+%7C+Final+Year+Student" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/yogyatanegi"><img src="https://komarev.com/ghpvc/?username=yogyatanegi&label=Profile%20views&color=6a00ff&style=flat" alt="yogyatanegi" /></a>
